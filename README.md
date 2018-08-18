@@ -26,10 +26,10 @@ Clicar em "Transformations", com isso será aberto um espaço onde deverá ser c
 ![Passo 3](https://i.imgur.com/cLXIlEV.png)
 A partir deste passo é necessário realizar o tratamento dos dados. Neste dataset, a maioria dos dados já apresentam um padrão definido. Porém decidi mudar alguns tipos de dados, para melhor corresponder com a realidade.
 
-![Passo 3]{https://i.imgur.com/1qctyUF.png}
+![Passo 3](https://i.imgur.com/1qctyUF.png)
 Compl. Endereço e Ramal estavam com tipo Boolean, e foi feita a mudança para o tipo String. 
 
 **Passo 4** 
 Em seguida, setaremos os arquivos de saída. Para isso, devemos clicar em *Output*, e em seguida no tipo de saída que queremos. Para essa atividade, as saídas definidas são: *JSON, XLS, TXT e XML*. 
-![Passo 4]{https://i.imgur.com/8XoKPzW.png}
+![Passo 4](https://i.imgur.com/8XoKPzW.png)
 Para cada saída, digitei o nome do passo, e configurei o nome do arquivo de saída. Conforme exemplo acima. 
